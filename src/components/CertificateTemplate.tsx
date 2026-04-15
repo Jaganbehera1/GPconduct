@@ -157,7 +157,7 @@ export const CertificateTemplate = forwardRef<HTMLDivElement, CertificateTemplat
                   letterSpacing: '0.2px',
                 }}
               >
-                AT/PO- GOPALPUR, P.S-RANPUR, DIST: - NAYAGARH.
+                AT/PO- GOPALPUR, P.S-RANPUR, DIST - NAYAGARH.
               </div>
               <div
                 style={{
@@ -165,7 +165,7 @@ export const CertificateTemplate = forwardRef<HTMLDivElement, CertificateTemplat
                   letterSpacing: '0.2px',
                 }}
               >
-                PIN- 752026 (ORISSA)
+                PIN- 752025 (ORISSA)
               </div>
             </div>
           </div>
@@ -249,7 +249,7 @@ export const CertificateTemplate = forwardRef<HTMLDivElement, CertificateTemplat
                 Headmaster,
               </div>
               <div style={{ fontSize: '14px', fontWeight: 'bold', marginBottom: '2px' }}>
-                PANCHAYAT GOVT. HIGH SCHOOL, GOPALPUR , Ranpur
+                PANCHAYAT GOVT. HIGH SCHOOL, GOPALPUR
               </div>
               <div style={{ fontSize: '14px', fontWeight: 'bold' }}>
                 Nayagarh
